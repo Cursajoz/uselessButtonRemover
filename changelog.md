@@ -4,3 +4,5 @@
 - Added a tag.
 # 1.0.2
 - Re-implemented the changelog (oops)
+# 1.0.3
+- Fixed mod json
