@@ -2,3 +2,5 @@
 - Release.
 # 1.0.1
 - Added a tag.
+# 1.0.2
+- Re-implemented the changelog (oops)
