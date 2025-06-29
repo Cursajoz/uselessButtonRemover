@@ -5,9 +5,12 @@
 	},
 	"id": "cursajoz.uselessbuttonremover",
 	"name": "Useless Button Remover",
-	"version": "v1.0.3",
+	"version": "v1.0.4",
 	"developer": "Cursajoz",
 	"description": "The name don't lie.",
+	"links": {
+		"source": "https://github.com/Cursajoz/uselessButtonRemover"
+	},
 	"tags": [
 		"joke"
 	]
