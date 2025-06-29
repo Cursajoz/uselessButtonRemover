@@ -1,3 +1,3 @@
-# Template Mod
+# Useless Button Remover
 
-Edit about.md to change this
+Removes useless buttons
