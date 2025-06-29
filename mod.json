@@ -10,5 +10,8 @@
 	"name": "Useless Button Remover",
 	"version": "v1.0.0",
 	"developer": "Cursajoz",
-	"description": "The name don't lie."
+	"description": "The name don't lie.",
+	"tags": [
+		"joke"
+	]
 }
